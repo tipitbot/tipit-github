@@ -1,2 +1,2 @@
 # tipit-github
-A Github implementation of tipit
+A Github implementation of tipit.
